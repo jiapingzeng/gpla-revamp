@@ -1,16 +1,11 @@
 # gpla-revamp
 
-## What do we need to edit?
-The `.vue` files in the `src/components/<Page name>` folder. The order of components can be found in `src/<Page name>.vue`. Simply edit your components and Vue will combine them together.
-
-
 ## Setup
 1. Install Node.js from [here](https://nodejs.org/en/), either version should work
 2. Clone this repo (and switch to this branch):
 ```
-git clone https://github.com/JakinHuangWang/GPLA-Revamp/
-cd GPLA-Revamp
-git checkout vue-test
+git clone https://github.com/jiapingzeng/gpla-revamp
+cd gpla-revamp
 ```
 3. Install dependencies:
 ```
