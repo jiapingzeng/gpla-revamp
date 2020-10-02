@@ -87,7 +87,7 @@
 .verse-right img {
   width: 150px;
   position: absolute;
-  top: -10px;
+  top: 5px;
   z-index: 3;
 }
 
